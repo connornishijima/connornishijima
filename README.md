@@ -9,5 +9,4 @@
 </p>
 
 *Make sure to follow our Twitter for updates and fun discussions!* **[@lixielabs](https://twitter.com/lixielabs)**
-
 ![](https://hit.yhype.me/github/profile?user_id=5051485)
