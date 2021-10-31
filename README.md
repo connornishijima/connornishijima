@@ -10,4 +10,4 @@
 
 *Make sure to follow our Twitter for updates and fun discussions!* **[@lixielabs](https://twitter.com/lixielabs)**
 
-![](https://komarev.com/ghpvc/?username=connornishijima)
+![](https://hit.yhype.me/github/profile?user_id=5051485)
