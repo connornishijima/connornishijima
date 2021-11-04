@@ -4,8 +4,7 @@
   <a href="https://github.com/connornishijima/Pixie_Chroma/#readme"><b>GITHUB</b></a> · · · 
   <a href="https://connornishijima.github.io/Pixie_Chroma/?section=docs"><b>LIBRARY DOCS</b></a> · · · 
   <a href="https://connornishijima.github.io/Pixie_Chroma/?section=datasheet"><b>DATASHEET</b></a> · · · 
-  <a href="https://connornishijima.github.io/Pixie_Chroma/?section=tutorials"><b>TUTORIALS</b></a> · · · 
-  <a href="https://connornishijima.github.io/Pixie_Chroma/?section=oshw"><b>OSHW</b></a>
+  <a href="https://connornishijima.github.io/Pixie_Chroma/?section=tutorials"><b>TUTORIALS</b></a>
 </p>
 
 *Make sure to follow our Twitter for updates and fun discussions!* **[@lixielabs](https://twitter.com/lixielabs)**
