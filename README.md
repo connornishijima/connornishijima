@@ -2,11 +2,11 @@
 <p align="center">
   <b>The Coolest Character Display for Arduino!</b><br>
   &nbsp;&nbsp;· · ·&nbsp;&nbsp;
+  <a href="https://github.com/connornishijima/Pixie_Chroma/blob/main/getting_started.md"><b>GETTING STARTED</b></a>
+  &nbsp;&nbsp;· · ·&nbsp;&nbsp;
   <a href="https://connornishijima.github.io/Pixie_Chroma/?section=docs"><b>LIBRARY DOCS</b></a>
   &nbsp;&nbsp;· · ·&nbsp;&nbsp;
   <a href="https://connornishijima.github.io/Pixie_Chroma/?section=datasheet"><b>DATASHEET</b></a>
-  &nbsp;&nbsp;· · ·&nbsp;&nbsp;
-  <a href="https://connornishijima.github.io/Pixie_Chroma/?section=tutorials"><b>TUTORIALS</b></a>
   &nbsp;&nbsp;· · ·&nbsp;&nbsp;
   <a href="extras/OSHW"><b>OSHW</b></a>
   &nbsp;&nbsp;· · ·&nbsp;&nbsp;
