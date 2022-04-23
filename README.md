@@ -1,4 +1,4 @@
-<a href="https://github.com/connornishijima/Pixie_Chroma/#readme"><img src="logo.png"></a>
+<a href="https://github.com/connornishijima/Pixie_Chroma/#readme"><img src="logo.jpg"></a>
 <p align="center">
   <b>The Coolest Character Display for Arduino!</b><br>
   &nbsp;&nbsp;· · ·&nbsp;&nbsp;
