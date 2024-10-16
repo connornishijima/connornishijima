@@ -1,18 +1,7 @@
-<a href="https://github.com/connornishijima/Pixie_Chroma/#readme"><img src="logo.jpg"></a>
+<a href="https://github.com/connornishijima/Pixie_Chroma/#readme"><img src="emotiscope_glow.png"></a>
 <p align="center">
-  <b>The Coolest Character Display for Arduino!</b><br>
+  <b>A Music Visualizer From The Future</b><br>
   &nbsp;&nbsp;· · ·&nbsp;&nbsp;
-  <a href="https://connornishijima.github.io/Pixie_Chroma/?section=getting-started"><b>GETTING STARTED</b></a>
-  &nbsp;&nbsp;· · ·&nbsp;&nbsp;
-  <a href="https://connornishijima.github.io/Pixie_Chroma/?section=docs"><b>LIBRARY DOCS</b></a>
-  &nbsp;&nbsp;· · ·&nbsp;&nbsp;
-  <a href="https://connornishijima.github.io/Pixie_Chroma/?section=datasheet"><b>DATASHEET</b></a>
-  &nbsp;&nbsp;· · ·&nbsp;&nbsp;
-  <a href="extras/OSHW"><b>OSHW</b></a>
-  &nbsp;&nbsp;· · ·&nbsp;&nbsp;
-  <a href="https://connornishijima.github.io/Pixie_Chroma/?section=purchase"><b>PURCHASE</b></a>
+  learn more: <a href="https://emotiscope.rocks/"><b>emotiscope.rocks</b></a>
   &nbsp;&nbsp;· · ·&nbsp;&nbsp;
 </p>
-
-*Make sure to follow our Twitter for updates and fun discussions!* **[@lixielabs](https://twitter.com/lixielabs)**
-![](https://hit.yhype.me/github/profile?user_id=5051485)
